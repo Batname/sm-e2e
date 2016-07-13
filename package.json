@@ -1,0 +1,14 @@
+{
+  "name": "sm-e2e",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "e2e:test": "./node_modules/.bin/nightwatch --env test"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "nightwatch": "^0.9.5"
+  }
+}
