@@ -19,7 +19,7 @@
 
   "test_settings" : {
     "test" : {
-      "launch_url" : "https://sm-web-test-us-east.herokuapp.com",
+      "launch_url" : "https://sm-web-eu-west-staging.herokuapp.com",
       "globals": {
         "hirePath": "hire"
       },

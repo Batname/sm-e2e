@@ -5,7 +5,8 @@
   "main": "index.js",
   "scripts": {
     "e2e:test": "./node_modules/.bin/nightwatch --env test",
-    "e2e:production": "./node_modules/.bin/nightwatch --env production"
+    "e2e:production": "./node_modules/.bin/nightwatch --env production",
+    "test": "./node_modules/.bin/nightwatch --env test ./scenarios/hire/forgotPassword.js"
   },
   "author": "",
   "license": "ISC",
